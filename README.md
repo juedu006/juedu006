@@ -1,5 +1,6 @@
 # João Eduardo
 **Desenvolvedor Front-End**
+<br>
 Oie eu sou o João Eduardo, Técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, um curso full stack, porém eu me identifiquei mais na parte do front-end
 
 <div> 
@@ -21,12 +22,4 @@ Oie eu sou o João Eduardo, Técnico formado em Análise e Desenvolvimento de Si
 
   ### 📊 Estatísticas
   **![Fraga GituHub stats](https://github-readme-stats.vercel.app/api?username=juedu006&show_icons=true&theme=dark)**
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juedu006&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  ##
-
+  **![Fraga GituHub stats]([https://github-readme-stats.vercel.app/api?username=juedu006&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juedu006&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9))**
