@@ -1,7 +1,11 @@
 # Olá, eu sou o João Eduardo
 **Desenvolvedor Front-End**
 <br>
-Técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, um curso full stack, porém eu me identifiquei mais na parte do front-end
+Sou técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, onde concluí um curso com enfoque full stack. Apesar de ter aprendido sobre várias tecnologias e etapas do desenvolvimento de sistemas, encontrei minha verdadeira paixão na área de front-end.
+
+Gosto de criar interfaces interativas e funcionais, com atenção aos detalhes e foco na experiência do usuário. Tenho experiência com tecnologias como HTML, CSS, JavaScript e frameworks modernos, como React. Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver soluções criativas e eficientes.
+
+No meu GitHub, você encontrará projetos que refletem minha evolução como desenvolvedor e meu interesse em criar experiências digitais envolventes.
 
 <div> 
   <a href="https://www.instagram.com/_joaozinhocatatau/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
