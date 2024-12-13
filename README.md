@@ -1,4 +1,4 @@
-# João Eduardo
+# Olá, eu sou o João Eduardo
 **Desenvolvedor Front-End**
 <br>
 Oie eu sou o João Eduardo, Técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, um curso full stack, porém eu me identifiquei mais na parte do front-end
