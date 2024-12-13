@@ -11,7 +11,7 @@
 </div>
 
   ##
-  **![Fraga GituHub stats](https://github-readme-stats.vercel.app/api?username=juedu006&show_icons=true&theme=radical)**
+  **![Fraga GituHub stats](https://github-readme-stats.vercel.app/api?username=juedu006&show_icons=true&theme=dracula)**
   ##
  
 <div> 
