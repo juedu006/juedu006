@@ -1,7 +1,7 @@
 # Olá, eu sou o João Eduardo
 **Desenvolvedor Front-End**
 <br>
-Oie eu sou o João Eduardo, Técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, um curso full stack, porém eu me identifiquei mais na parte do front-end
+Técnico formado em Análise e Desenvolvimento de Sistemas pela Etec Professor Horácio Augusto da Silveira, um curso full stack, porém eu me identifiquei mais na parte do front-end
 
 <div> 
   <a href="https://www.instagram.com/_joaozinhocatatau/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
